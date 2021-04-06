@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio - WIP
 
 # [Project 1 - Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
