@@ -2,7 +2,7 @@
 
 # [Project 1 - Mimic III Full Stack application: Project Overview](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
-This is a full stack application, that contains:
+The goal of this application is to correlate the patients' interactions with the duration of their hospitalization. This is a full stack application, that contains:
 
 * Back-End (w/ Flask)
 
@@ -10,8 +10,7 @@ This is a full stack application, that contains:
 
 * Data Science and Machine Learning (w/ Python)
 
-
-The goal of this application is to correlate the patients' interactions with the duration of their hospitalization.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # [Project 2 - COVID-19 Forecasting: Project Overview](https://github.com/StamKavid/COVID_19_simple_analysis)
 
