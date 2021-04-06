@@ -1,6 +1,6 @@
 ## Portfolio
 
-# [Project 1 - Mimic III Full Stack application: Project Overview](https://github.com/StamKavid/Mimic_III_full_stack_application)
+# [Project 1 - Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
 The goal of this application is to correlate the patients' interactions with the duration of their hospitalization. This is a full stack application, that contains:
 
@@ -14,7 +14,7 @@ The goal of this application is to correlate the patients' interactions with the
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# [Project 2 - COVID-19 Forecasting: Project Overview](https://github.com/StamKavid/COVID_19_simple_analysis)
+# [Project 2 - COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)
 
 In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model. More specifically:
 
