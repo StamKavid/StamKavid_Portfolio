@@ -1,4 +1,4 @@
-## Welcome my Portfolio
+## Welcome to my Portfolio
 
 # [Project 1 - Mimic III Full Stack application: Project Overview](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
