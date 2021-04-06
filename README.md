@@ -10,6 +10,8 @@ The goal of this application is to correlate the patients' interactions with the
 
 * Data Science and Machine Learning (w/ Python)
 
+![](https://github.com/StamKavid/StamKavid_Portfolio/blob/main/Images/Front%20end%20-%20Web%20app.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # [Project 2 - COVID-19 Forecasting: Project Overview](https://github.com/StamKavid/COVID_19_simple_analysis)
@@ -23,3 +25,5 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 * Geographical visualization (Globally)
 
 * COVID-19 Cases prediction for next 30 days (Globally & Greece)
+
+![](https://github.com/StamKavid/StamKavid_Portfolio/blob/main/Images/COVID-19%20prediction%20(Greece).png)
