@@ -27,3 +27,16 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 * COVID-19 Cases prediction for next 30 days (Globally & Greece)
 
 ![](/Images/COVID-19%20prediction%20(Greece).png)
+
+# [Project 3 - MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
+
+In this project you will find MNIST classification using CNN architecture, inspired by LeNet5.
+
+* Problem Statement | Image Classification
+* Data source (MNIST) | Overview
+* EDA | Data Augmentation
+* CNN | DL architecture
+
+![](https://github.com/StamKavid/MNIST_image_classification/blob/main/Images/1_zY1qFB9aFfZz66YxxoI2aw.gif)
+
+GIF Source: https://bit.ly/36v55wx
